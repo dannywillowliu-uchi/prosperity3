@@ -1,3 +1,6 @@
 Team members: Dylan Cheng, 
 
-After Round 4, I believe we were placed #774 overall and #30 in manual. Hopefully, we were able to climb up the leaderboard in Round 5...
+Overall rank: 458th (407,055 seashells)
+Manual rank: 10th
+Algorithmic rank: 1548th
+Country rank: 126th
